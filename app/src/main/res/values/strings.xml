@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Kuya</string>
+    <string name="featured">Featured</string>
+    <string name="whats_new">What\'s New</string>
+    <string name="learn_more">Learn More</string>
+    <string name="home">Home</string>
+    <string name="my_jobs">My Jobs</string>
+    <string name="Support">Supports</string>
+    <string name="news">News</string>
+    <string name="account">Account</string>
+</resources>
